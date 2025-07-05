@@ -99,87 +99,51 @@ Currently building smart systems that blend creativity with cutting-edge technol
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TCHEUFFA-DARREN-RAYAN&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </div>
 
-## 🎯 Current Focus
 
-Here's what I'm learning, building, reading, and aiming for right now:
-
-```javascript
-const currentFocus = {
-  learning: ["Machine Learning", "Cloud Architecture", "DevOps"],
-  building: ["Personal Portfolio", "Open Source Tools", "Side Projects"],
-  reading: ["Clean Code", "System Design", "Tech Blogs"],
-  goals: [
-    "Contribute to major OSS projects",
-    "Build a SaaS product",
-    "Share knowledge"
-  ]
-};
-
-```
 
 ## 🌟 Featured Projects
 
-### 🚀 [Project Name 1](https://github.com/yourusername/project1)
-A brief description of your amazing project that solves real-world problems.
+### 🚀 [Samira Beautician website](https://github.com/TCHEUFFA-DARREN-RAYAN/SAMIRA-WEBSITE)
+Website created for a local beauty company where clients can book online and scheldule and appointment
 
-**Tech Stack:** React, Node.js, MongoDB, Docker
-- ⭐ 50+ stars
-- 🍴 15+ forks
-- 🚀 Live demo: [link]
-
-### 💡 [Project Name 2](https://github.com/yourusername/project2)
-Another cool project that showcases your skills and creativity.
-
-**Tech Stack:** Python, Flask, PostgreSQL, AWS
+**Tech Stack:** HTML, CSS , JAVASCRIPT
 - ⭐ 30+ stars
+- 🍴 15+ forks
+- 🚀 Live demo: [[samirabeautician.com](https://samirabeautician.com/)]
+
+### 💡 [LAVAL WEBSITE](https://github.com/TCHEUFFA-DARREN-RAYAN/LAVAL-WEBSITE)
+WEBSITE CREATED FOR MY PREVIOUS SCHOOL SO THAT STUDENTS CAN HAVE ACCESS TO ONLINE COURSES AND SEE THIER GRADES 
+
+**Tech Stack:** HTML, CSS , JAVASCRIPT; MYSQL
+- ⭐ 15+ stars
 - 🍴 8+ forks
-- 🚀 Live demo: [link]
+- 🚀 Live demo: [STILL-WORKING-ON-IT]
 
-### 🎨 [Project Name 3](https://github.com/yourusername/project3)
-A creative project that demonstrates your passion for development.
+### 🎨 [MIXED-PROJECT-CONTRIBUTIONS](https://github.com/TCHEUFFA-DARREN-RAYAN/MIXED-PROJECT-CONTRIBUTIONS)
+a vibrant C# project packed with handy tools and nostalgic games that spark joy and creativity!
 
-**Tech Stack:** Vue.js, Express.js, MySQL, Firebase
-- ⭐ 25+ stars
-- 🍴 5+ forks
-- 🚀 Live demo: [link]
+**Tech Stack:** C# , c++ 
+- ⭐ 28+ stars
+- 🍴 17+ forks
+- 🚀 Live demo: [[link](https://github.com/TCHEUFFA-DARREN-RAYAN/MIXED-PROJECT-CONTRIBUTIONS)]
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How I Built My First Full-Stack Application](https://yourblog.com/post1)
-- [10 JavaScript Tips That Will Make You a Better Developer](https://yourblog.com/post2)
-- [Understanding Async/Await in JavaScript](https://yourblog.com/post3)
-- [My Journey Learning React Hooks](https://yourblog.com/post4)
-<!-- BLOG-POST-LIST:END -->
-
-## 🎵 Spotify Playing
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff&limit=1" alt="Spotify Playing" />
-</div>
 
 ## 🤝 Connect with Me
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tcheuffa-darren-112214327/)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com) -->
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tcheuffadarren1@gmail.com)
 
 </div>
 
-## 💰 Support My Work
-
-If you find my projects helpful, consider supporting me:
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourusername)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/yourusername)
 
 ## 📊 Profile Views
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=TCHEUFFA-DARREN-RAYAN&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+
 </div>
 
 ---
