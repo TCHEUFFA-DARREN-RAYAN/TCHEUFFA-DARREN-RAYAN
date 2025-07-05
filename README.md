@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm TCHEUFFA DARREN RAYAN
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=21&pause=1000&color=5949F7&background=5BFF3F00&width=435&separator=%3C&lines=Hi%2C+I'm+TCHEUFFA+DARREN+%F0%9F%91%8B%3CPassionate+IoT+%26+Embedded+Programmer%3CESP32+Developer+%26+Innovator+Smart+Parking+Systems+Architect+%F0%9F%9A%97;%3CTurning+Ideas+into+Connected+Solutions%3CLearning+Something+New+Every+Day++" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=21&pause=1000&color=5949F7&background=5BFF3F00&width=435&lines=Hi%2C+I'm+TCHEUFFA+DARREN+%F0%9F%91%8B;IoT+%26+Embedded+Dev;Smart+Device+Programmer;Turning+Ideas+into+Connected+Slns;Learning+Something+New+Every+Day++" alt="Typing SVG" /></a>
 </div>
 
 ## 🚀 About Me
