@@ -101,13 +101,20 @@ Currently building smart systems that blend creativity with cutting-edge technol
 
 ## 🎯 Current Focus
 
+Here's what I'm learning, building, reading, and aiming for right now:
+
 ```javascript
 const currentFocus = {
   learning: ["Machine Learning", "Cloud Architecture", "DevOps"],
   building: ["Personal Portfolio", "Open Source Tools", "Side Projects"],
   reading: ["Clean Code", "System Design", "Tech Blogs"],
-  goals: ["Contribute to major OSS projects", "Build a SaaS product", "Share knowledge"]
+  goals: [
+    "Contribute to major OSS projects",
+    "Build a SaaS product",
+    "Share knowledge"
+  ]
 };
+
 ```
 
 ## 🌟 Featured Projects
