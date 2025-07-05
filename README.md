@@ -5,15 +5,20 @@
 </div>
 
 ## 🚀 About Me
+I'm a passionate developer who loves creating innovative solutions and contributing to the open-source community.  
+Currently building smart systems that blend creativity with cutting-edge technologies — especially in the IoT and embedded world.
 
-I'm a passionate developer who loves creating innovative solutions and contributing to the open-source community. Currently working on exciting projects that blend creativity with cutting-edge technology.
+---
 
-- 🔭 I'm currently working on **[Your Current Project]**
-- 🌱 I'm currently learning **[Technologies you're learning]**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **JavaScript, Python, React, Node.js**
-- 📫 How to reach me: **[your-email@example.com]**
-- ⚡ Fun fact: **I debug with console.log and I'm not ashamed!**
+- 🔭 I’m currently working on **Smart Parking Systems using ESP32, BLE, and Sensors**
+- 🌱 I’m learning **UHF RFID, deep sleep optimization, and advanced OTA updates**
+- 👯 I’m looking to collaborate on **IoT, ESP32, and open-source automation projects**
+- 💬 Ask me about **ESP32, Firebase, OTA, BLE, sensors, or anything IoT**
+- 📫 Reach me at: **tcheuffadarren1@gmail.com**
+- ⚡ Fun fact: **I debug with `Serial.println()` like a boss 😎**
+
+---
+
 
 ## 🛠️ Tech Stack
 
