@@ -125,7 +125,7 @@ a vibrant C# project packed with handy tools and nostalgic games that spark joy 
 **Tech Stack:** C# , c++ 
 - ⭐ 28+ stars
 - 🍴 17+ forks
-- 🚀 Live demo: [[link](https://github.com/TCHEUFFA-DARREN-RAYAN/MIXED-PROJECT-CONTRIBUTIONS)]
+- 🚀 Live demo: [[MIXED-PROJECT-CONTRIBUTIONS](https://github.com/TCHEUFFA-DARREN-RAYAN/MIXED-PROJECT-CONTRIBUTIONS)]
 
 
 ## 🤝 Connect with Me
